@@ -1,0 +1,27 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+button{
+  padding: 15px 10px;
+  font-size: 25px;
+  cursor: pointer;
+  text-align: center;
+  outline: none;
+  color: rgb(0,0,0);
+  background-color: rgb(250,150,0);
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 12px #999;
+}
+button:hover {
+  box-shadow: 0 12px ;
+  color:rgb(100,100,100);
+  background-color:rgb(250,100,0)
+}
+button:active{
+  Background-color:rgb(200,50,0);
+  color:rgb(50,50,0);
+  box-shadow : 0 5px;
+  transform : translateY(7px)
+}
