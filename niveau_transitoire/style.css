@@ -1,0 +1,74 @@
+/*appelle de la police d'écriture*/
+
+html,
+body {
+    height: 735px;
+    width: 600px;
+    margin: 0 auto;
+    position: relative;
+    background-color: rgb(26, 26, 26);
+    /*couleur de fond*/
+}
+
+
+/*Appel du fichier html*/
+
+header {
+    text-align: center;
+    /*Alignement centrale des contenus*/
+    width: 960px;
+    /*Taille*/
+    height: 120px;
+    margin-left: -150px;
+    /*Positionnement centrale*/
+}
+
+#imgKultom {
+    margin-left: 150px;
+}
+
+#container {
+    width: 940px;
+    /*Taille*/
+    height: 700px;
+}
+
+button {
+    /*bouton inactif*/
+    font-family: pixelFont;
+    /*police d'écriture*/
+    font-size: 11px;
+    /*Taille du texte*/
+    color: rgb(255, 255, 255);
+    /*Couleur du texte*/
+    background: rgb(68, 68, 68);
+    /*Couleur du bouton*/
+    background: linear-gradient( rgb(85, 85, 85), rgb(44, 44, 44));
+    /*Dégradé du bouton*/
+    border-radius: 8px;
+    /*Bordure du bouton*/
+    box-shadow: 0 0 5px rgba( 0, 0, 0, 0.5), 0 -1px 0 rgba( 255, 255, 255, 0.4);
+    /*Ombre du bouton*/
+}
+
+button:hover {
+    /*bouton touché*/
+    color: rgb(255, 238, 0);
+    /*Couleur du texte*/
+    background: rgb(85, 85, 85);
+    /*Couleur du bouton*/
+    background: linear-gradient( rgb(119, 119, 119), rgb(51, 51, 51));
+    /*Dégradé du bouton*/
+}
+
+button:active {
+    /*bouton appuyé*/
+    color: rgb(255, 238, 0);
+    /*Couleur du texte*/
+    background: rgb(68, 68, 68);
+    /*Couleur du bouton*/
+    background: linear-gradient( rgb(85, 85, 85), rgb(44, 44, 44));
+    /*Dégradé du bouton*/
+    box-shadow: 1px 1px 10px rgb(0, 0, 0), 0 1px 0 rgba( 255, 255, 255, 0.4);
+    /*Ombre du bouton*/
+}

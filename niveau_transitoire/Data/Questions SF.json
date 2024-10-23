@@ -1,0 +1,217 @@
+[
+    {
+        "thème": "Science-fiction",
+        "intitulé": "Qui est Iron-man ?",
+        "choix": [
+            "Howard Stark",
+            "Tony Stark",
+            "Pepper Potts",
+            "James Rhodes"
+        ],
+        "réponse": 1
+    },
+    {
+        "thème": "Science-fiction",
+        "intitulé": "Comment Bruce Banner est-il devenu Hulk ?",
+        "choix": [
+            "Il a été mordu par un serpent radioactif",
+            "Il s'est injecté une nouvelle substance extra-terrestre",
+            "Il à été irradié par des rayons Gamma",
+            "C'est un X-men et donc une mutation naturelle"
+        ],
+        "réponse": 2
+    },
+    {
+        "thème": "Science-fiction",
+        "intitulé": "Quel est le nom de CELUI-DONT-ON-NE-DOIT-PAS-PRONONCER-LE-NOM ?",
+        "choix": [
+            "Tom Jédusor",
+            "Voldemort",
+            "Albus Dumbledore"
+        ],
+        "réponse": 0
+    },
+    {
+        "thème": "Science-fiction",
+        "intitulé": "Qui est l'élu ?",
+        "choix": [
+            "Morphéo",
+            "Trinity",
+            "Néo",
+            "Boomer"
+        ],
+        "réponse": 2
+    },
+    {
+        "thème": "Science-fiction",
+        "intitulé": "Qui est James Logan ?",
+        "choix": [
+            "Le Fauve",
+            "Havoc",
+            "Wolverine",
+            "Cyclope"
+        ],
+        "réponse": 2
+    },
+    {
+        "thème": "Science-fiction",
+        "intitulé": "Qui a tué l'oncle Ben dans Spider-Man ?",
+        "choix": [
+            "Norman Osborne",
+            "Le rhino",
+            "Venom",
+            "L'homme-sable"
+        ],
+        "réponse": 3
+    },
+    {
+        "thème": "Science-fiction",
+        "intitulé": "Quel objet mystique apparaît dans 3 des 4 films Avengers ?",
+        "choix": [
+            "Le gant de Thanos",
+            "Le tésseract",
+            "Le sceptre de Loki"
+        ],
+        "réponse": 1
+    },
+    {
+        "thème": "Science-fiction",
+        "intitulé": "Quel objet permet au personnage principal de différencier le rêve de la réalité ?",
+        "choix": [
+            "Un sablier dont le sable monte au lieu de tomber",
+            "Une toupie qui ne s'arrête jamais de tourner"
+        ],
+        "réponse": 1
+    },
+    {
+        "thème": "Science-fiction",
+        "intitulé": "Comment Thanos compte-t-il tuer la moitié de l'univers ?",
+        "choix": [
+            "Il va prendre une bombe immense",
+            "Il va souffler très très fort",
+            "Il va claquer du doigt comme joséphine ange-gardien",
+            "Il va utiliser sa super force militaire pour anéantir des planètes"
+        ],
+        "réponse": 2
+    },
+    {
+        "thème": "Science-fiction",
+        "intitulé": "Qu'est-ce que Hellboy",
+        "choix": [
+            "Un X-men",
+            "Le fils de Satan",
+            "Un démon ordinaire"
+        ],
+        "réponse": 1
+    },
+    {
+        "thème": "Science-fiction",
+        "intitulé": "Quel est le nom du premier film de Sciences-fiction réalisé ?",
+        "choix": [
+            "Voyage au centre de la terre",
+            "20 000 lieues sous la mer",
+            "Le voyage dans la lune",
+            "Il était une fois la vie"
+        ],
+        "réponse": 2
+    },
+    {
+        "thème": "Science-fiction",
+        "intitulé": "Qui est Dark Vador ?",
+        "choix": [
+            "Luke Skywalker",
+            "Le fils de Luke Skywalker",
+            "Obi-Wan Kenobi",
+            "Anakin Skywalker"
+        ],
+        "réponse": 3
+    },
+    {
+        "thème": "Science-fiction",
+        "intitulé": "De quel alliage est fait le corps de Wolverine ?",
+        "choix": [
+            "Un alliage d'or",
+            "Un alliage de Titane",
+            "Un alliage d'adamantium",
+            "D'acier"
+        ],
+        "réponse": 2
+    },
+    {
+        "thème": "Science-fiction",
+        "intitulé": "Où se rend le Docteur Strange afin de soigner ses mains ?",
+        "choix": [
+            "Taraahan",
+            "Tatooine",
+            "Kamaartage",
+            "Valoraant"
+        ],
+        "réponse": 2
+    },
+    {
+        "thème": "Science-fiction",
+        "intitulé": "Qui peut on apercevoir dans chaque film du MCU (Marvel Cinema Universe) ?",
+        "choix": [
+            "Iron-man",
+            "Stan Lee",
+            "Bruce Lee",
+            "Captain America"
+        ],
+        "réponse": 1
+    },
+    {
+        "thème": "Science-fiction",
+        "intitulé": "Quel est le pseudonyme de Will Smith dans Men In Black ?",
+        "choix": [
+            "L",
+            "K",
+            "Z",
+            "J"
+        ],
+        "réponse": 3
+    },
+    {
+        "thème": "Science-fiction",
+        "intitulé": "Quelle est la relation entre Luke Skywalker et la princesse Leïa ?",
+        "choix": [
+            "Frère et soeur",
+            "Père et fille",
+            "Mère et fils",
+            "Mari et femmme"
+        ],
+        "réponse": 3
+    },
+    {
+        "thème": "Science-fiction",
+        "intitulé": "Qui est le (la) pire ennemi de Batman ?",
+        "choix": [
+            "Harley Quinn",
+            "Gueule d'argile",
+            "Bane",
+            "Le joker"
+        ],
+        "réponse": 3
+    },
+    {
+        "thème": "Science-fiction",
+        "intitulé": "Comment est baptisé le navire du pirate Jack Sparrow ?",
+        "choix": [
+            "Le Hollandais Volant",
+            "Le Queen's Enemy",
+            "Le Black Pearl",
+            "L'évangélion"
+        ],
+        "réponse": 2
+    },
+    {
+        "thème": "Science-fiction",
+        "intitulé": "Contre qui se battent les saprtiates dans le film 300 ?",
+        "choix": [
+            "Les Romains de Jules César",
+            "Les Perses de Xercès",
+            "Les Chinois de Sun Tzu",
+            "Les Gaulois de Vercingétorix"
+        ],
+        "réponse": 1
+    }
+]

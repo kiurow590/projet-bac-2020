@@ -1,0 +1,168 @@
+[{
+        "thème": "Informatique",
+        "intitulé": "Qu'a creer Alan Turring ?",
+        "choix": [
+            "l'ancètre de la macine a écrire",
+            "le premier cerveau biomécanique",
+            "la vie",
+            "la premiere machine capable d'executer des\nmillions de calcul a la seconde"
+        ],
+        "reponse": 3
+    },
+    {
+
+        "thème": "Informatique",
+        "intitulé": "Quel est le langage\ninformatique le plus courant\nutilisé pour écrire\nles pages web ?",
+        "choix": [
+            "snake",
+            "HTML5",
+            "python",
+            "Basic"
+        ],
+        "reponse": 1
+
+    },
+    {
+
+        "thème": "Informatique",
+        "intitulé": "À quoi est égal 1 octet ?",
+        "choix": [
+            "à 8 bytes",
+            "à 0",
+            "à 1 octet",
+            "à 8 bits"
+        ],
+        "reponse": 3
+
+    },
+    {
+
+        "thème": "Informatique",
+        "intitulé": "Qu’est-ce qu’une adresse IP ?",
+        "choix": [
+            "Un numéro qui identifie un matériel informatique\nconnecté à un réseau informatique",
+            " Le protocole de communication utilisé sur Internet",
+            " L’adresse d’un site web, commençant par 'http://",
+            "c'est un coockie"
+        ],
+        "reponse": 0
+
+    },
+    {
+
+        "thème": "Informatique",
+        "intitulé": "Qu’est-ce qu’un CPU ?",
+        "choix": [
+            "Une carte video",
+            "Un processeur",
+            "Une mémoire vive",
+            "Un disque dur"
+        ],
+        "reponse": 1
+
+    },
+    {
+
+        "thème": "Informatique",
+        "intitulé": "Comment appelle-t-on les\nconnecteurs utilisés\npour brancher les câbles\nd’un réseau informatique ?",
+        "choix": [
+            "SATA (Serial Advanced Technology Attachment)",
+            "USB (Universal Serial Bus)",
+            "RJ45",
+            "VGA"
+        ],
+        "reponse": 2
+
+    },
+    {
+
+        "thème": "Informatique",
+        "intitulé": "Combien vaut 1 Mo (mégaoctet) ?",
+        "choix": [
+            " 1 million d’octets",
+            "1000 octets",
+            "1024 octets",
+            "0.001"
+        ],
+        "reponse": 0
+
+    },
+    {
+
+        "thème": "Informatique",
+        "intitulé": "Dans le mot 'GAFAM' que veut\ndire le M ?",
+        "choix": [
+            "Malango",
+            "Mars",
+            "Mackintosh",
+            "Microsoft"
+        ],
+        "reponse": 3
+
+    },
+    {
+
+        "thème": "Informatique",
+        "intitulé": "Qui est l'inventeur du web ?",
+        "choix": [
+            "Tommy Lee Jones",
+            "Tim O'Reilly",
+            "Tim Berners-Lee",
+            "Bruce Lee"
+        ],
+        "reponse": 2
+
+    },
+    {
+
+        "thème": "Informatique",
+        "intitulé": "Quel est le nom de l'ancêtre\nd'Internet ?",
+        "choix": [
+            "Arpanet",
+            "Telnet",
+            "Toupetilaplanet",
+            "Arkanet"
+        ],
+        "reponse": 0
+
+    },
+    {
+
+        "thème": "Informatique",
+        "intitulé": "Quelle revue spécialisée est\nconsidérée comme un élément\nmoteur de l'évolution\ndu web/des outils numériques ?",
+        "choix": [
+            "Fired",
+            "Forbes",
+            "Playboy",
+            "Wired"
+        ],
+        "reponse": 3
+
+    },
+    {
+
+        "thème": "Informatique",
+        "intitulé": "Où a été créé le web ?",
+        "choix": [
+            "En Belgique",
+            "En Suisse",
+            "Au Canada",
+            "Aux Etats-Unis"
+        ],
+        "reponse": 1
+
+    },
+    {
+
+        "thème": "Informatique",
+        "intitulé": "Quel sera le navigateur\nleader et concurrent d'Internet\nExplorer entre 1994 et 1998 ?",
+        "choix": [
+            "Escape",
+            "Tespascape",
+            "Netscape",
+            "Cyberscape"
+        ],
+        "reponse": 2
+
+    }
+]

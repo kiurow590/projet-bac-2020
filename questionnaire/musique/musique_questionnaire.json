@@ -1,0 +1,206 @@
+[{
+        "thème": "musique",
+        "intitulé": "Quelles sont les 3\nprincipales familles\nd'instruments de musique ?",
+        "choix": [
+            "L'Electronique, le Classique et le Moderne",
+            "La Pop Rock, le Jass et le Rap",
+            "Les percussions, les cordes et les vents"
+        ],
+        "reponse": 2
+    },
+    {
+        "thème": "musique",
+        "intitulé": "Depuis quand la musique\nexiste-t-elle ?",
+        "choix": [
+            "L'Antiquité",
+            "Le Moyen-Age",
+            "Depuis l'an 0",
+            "La Préhistoire"
+        ],
+        "reponse": 3
+    },
+    {
+        "thème": "musique",
+        "intitulé": "Quel a été le premier\ninstrument découvert\nà ce jour ?",
+        "choix": [
+            "Un tambour",
+            "Une flûte",
+            "Une guitare",
+            "Un baton de pluie"
+        ],
+        "reponse": 1
+    },
+    {
+        "thème": "musique",
+        "intitulé": "Qui a créé le solfège ?",
+        "choix": [
+            "Guido d'Arezzo, moine italien du XIe siècle",
+            "John Cage, un compositeur du XXe siècle",
+            "Bach, le père de la musique"
+        ],
+        "reponse": 0
+    },
+    {
+        "thème": "musique",
+        "intitulé": "Quels sont les principaux\ningrédients d'une musique ?",
+        "choix": [
+            "Les différents instruments de musiques",
+            "La voix est la clé d'une bonne musique",
+            "Le tempo et les percussions",
+            "Le rythme, la hauteur, les nuances et le timbre"
+        ],
+        "reponse": 3
+    },
+    {
+        "thème": "musique",
+        "intitulé": "La musique n'est pas\nconsidérée comme ?",
+        "choix": [
+            "Un métier",
+            "De l'art",
+            "Un message",
+            "Une passion"
+        ],
+        "reponse": 0
+    },
+    {
+        "thème": "musique",
+        "intitulé": "En quelle année le festival\ndes 'Vielles Charrues' est\napparu ?",
+        "choix": [
+            "2001",
+            "1992",
+            "1987",
+            "2005"
+        ],
+        "reponse": 1
+    },
+    {
+        "thème": "musique",
+        "intitulé": "Qu'elle est la plus grande\nsalle de concert\nde France à ce jour ?",
+        "choix": [
+            "Le Zénith de Nantes",
+            "Paris l'Olympia",
+            "Paris La Défense Arena"
+        ],
+        "reponse": 2
+    },
+    {
+        "thème": "musique",
+        "intitulé": "Quel groupe a créé la\nfameuse musique\n'Another One Bites the Dust' ?",
+        "choix": [
+            "Queen",
+            "The Beatles",
+            "Guns N' Roses"
+        ],
+        "reponse": 0
+    },
+    {
+        "thème": "musique",
+        "intitulé": "Quel groupe a créé la\nfameuse musique\n'Come and Get Your Love' ?",
+        "choix": [
+            "Nirvana",
+            "U2",
+            "Redbone"
+        ],
+        "reponse": 2
+    },
+    {
+        "thème": "musique",
+        "intitulé": "Quel groupe a créé la\nfameuse musique\n'Thunderstruck' ?",
+        "choix": [
+            "Guns N' Roses",
+            "AC/DC",
+            "Metallica"
+        ],
+        "reponse": 1
+    },
+    {
+        "thème": "musique",
+        "intitulé": "Quel groupe a créé la\nfameuse musique\n'Sweet Dreams\n(Are Made Of This)' ?",
+        "choix": [
+            "Eurythmics",
+            "Redbone",
+            "Muse"
+        ],
+        "reponse": 0
+    },
+    {
+        "thème": "musique",
+        "intitulé": "Quel groupe a créé la\nfameuse musique\n'Sultans Of Swing' ?",
+        "choix": [
+            "Metallica",
+            "Dire Straits",
+            "U2"
+        ],
+        "reponse": 1
+    },
+    {
+        "thème": "musique",
+        "intitulé": "Quel groupe a créé la\nfameuse musique\n'Another Brick in the Wall' ?",
+        "choix": [
+            "Eurythmics",
+            "Muse",
+            "Pink Floyd"
+        ],
+        "reponse": 2
+    },
+    {
+        "thème": "musique",
+        "intitulé": "Quel groupe a créé la\nfameuse musique\n'Sunday Bloody Sunday' ?",
+        "choix": [
+            "Dire Straits",
+            "U2",
+            "Queen"
+        ],
+        "reponse": 1
+    },
+    {
+        "thème": "musique",
+        "intitulé": "Quel groupe a créé la\nfameuse musique\n'Feel Good.inc' ?",
+        "choix": [
+            "Euryrthmics",
+            "AC/DC",
+            "Gorillaz"
+        ],
+        "reponse": 2
+    },
+    {
+        "thème": "musique",
+        "intitulé": "Quel groupe a créé la\nfameuse musique\n'Get Lucky' ?",
+        "choix": [
+            "Daft Punk",
+            "Matthieu Chedid",
+            "David Guetta"
+        ],
+        "reponse": 0
+    },
+    {
+        "thème": "musique",
+        "intitulé": "En quelle année le\n'Walkman' a-t-il\nété inventé ?",
+        "choix": [
+            "1983",
+            "1979",
+            "1975"
+        ],
+        "reponse": 1
+    },
+    {
+        "thème": "musique",
+        "intitulé": "Selon une étude de 2018,\nquel est le style musical\nle plus écouté en France ?",
+        "choix": [
+            "Métal",
+            "Pop-Rock",
+            "Rap"
+        ],
+        "reponse": 2
+    },
+    {
+        "thème": "musique",
+        "intitulé": "Selon une étude de 2019,\nquel est le style musical\nle plus écouté \ndans le monde ?",
+        "choix": [
+            "Classique",
+            "Pop-Rock",
+            "Electronique"
+        ],
+        "reponse": 1
+    }
+]

@@ -1,0 +1,69 @@
+/* Reglage de la police d'ecriture*/
+
+@font-face {
+    src: url("PrStart.ttf");
+    font-family: pixelFont;
+}
+
+html {
+    background-color: rgb(26, 26, 26);
+}
+
+body {
+    height: 735px;
+    width: 600px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.p5Canvas {
+    background-image: url(fond_musique2.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+button {
+    font-family: pixelFont;
+    /*police d'écriture*/
+    font-size: 16px;
+    /*Taille du texte*/
+    color: rgb(255, 255, 255);
+    /*Couleur du texte*/
+    background: rgb(68, 68, 68);
+    /*Couleur du bouton*/
+    background: linear-gradient( rgb(85, 85, 85), rgb(44, 44, 44));
+    /*Dégradé du bouton*/
+    border-radius: 8px;
+    /*Bordure du bouton*/
+    box-shadow: 0 0 5px rgba( 0, 0, 0, 0.5), 0 -1px 0 rgba( 255, 255, 255, 0.4);
+    /*Ombre du bouton*/
+}
+
+button:hover {
+    color: rgb(255, 238, 0);
+    /*Couleur du texte*/
+    background: rgb(85, 85, 85);
+    /*Couleur du bouton*/
+    background: linear-gradient( rgb(119, 119, 119), rgb(51, 51, 51));
+    /*Dégradé du bouton*/
+}
+
+button:active {
+    /*bouton appuyé*/
+    color: rgb(255, 238, 0);
+    /*Couleur du texte*/
+    background: rgb(68, 68, 68);
+    /*Couleur du bouton*/
+    background: linear-gradient( rgb(85, 85, 85), rgb(44, 44, 44));
+    /*Dégradé du bouton*/
+    box-shadow: 1px 1px 10px rgb(0, 0, 0), 0 1px 0 rgba( 255, 255, 255, 0.4);
+    /*Ombre du bouton*/
+}
+
+#Kulom_IMG {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 100px;
+}

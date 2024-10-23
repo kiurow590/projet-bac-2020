@@ -1,0 +1,216 @@
+[{
+        "thème": "Science-fiction",
+        "intitulé": "Qui est Iron-man ?",
+        "choix": [
+            "Howard Stark",
+            "Tony Stark",
+            "Pepper Potts",
+            "James Rhodes"
+        ],
+        "reponse": 1
+    },
+    {
+        "thème": "Science-fiction",
+        "intitulé": "Comment Bruce Banner est-il\ndevenu Hulk ?",
+        "choix": [
+            "Il a été mordu par un serpent radioactif",
+            "Il s'est injecté une nouvelle substance extra-terrestre",
+            "Il à été irradié par des rayons Gamma",
+            "C'est un X-men et donc une mutation naturelle"
+        ],
+        "reponse": 2
+    },
+    {
+        "thème": "Science-fiction",
+        "intitulé": "Quel est le nom de\nCELUI-DONT-ON-NE-DOIT\nPAS-PRONONCER-LE-NOM ?",
+        "choix": [
+            "Harry Potter",
+            "Voldemort",
+            "Albus Dumbledore"
+        ],
+        "reponse": 1
+    },
+    {
+        "thème": "Science-fiction",
+        "intitulé": "Qui est l'élu dans Matrix ?",
+        "choix": [
+            "Morphéo",
+            "Trinity",
+            "Néo",
+            "Boomer"
+        ],
+        "reponse": 2
+    },
+    {
+        "thème": "Science-fiction",
+        "intitulé": "Qui est James Logan ?",
+        "choix": [
+            "Le Fauve",
+            "Havoc",
+            "Wolverine",
+            "Cyclope"
+        ],
+        "reponse": 2
+    },
+    {
+        "thème": "Science-fiction",
+        "intitulé": "Qui a tué l'oncle Ben dans\nSpider-Man ?",
+        "choix": [
+            "Norman Osborne",
+            "Le rhino",
+            "Venom",
+            "L'homme-sable"
+        ],
+        "reponse": 3
+    },
+    {
+        "thème": "Science-fiction",
+        "intitulé": "Quel objet mystique apparaît\ndans 3 des 4 films Avengers ?",
+        "choix": [
+            "Le gant de Thanos",
+            "Un sac à dos",
+            "L'épée de Heimdall"
+        ],
+        "reponse": 0
+    },
+    {
+        "thème": "Science-fiction",
+        "intitulé": "Quel objet permet au personnage\nprincipal de différencier\nle rêve de la réalité\ndans Inception ?",
+        "choix": [
+            "Un sablier dont le sable monte au lieu de tomber",
+            "Une toupie qui ne s'arrête jamais de tourner"
+        ],
+        "reponse": 1
+    },
+    {
+        "thème": "Science-fiction",
+        "intitulé": "Comment Thanos compte-t-il\ntuer la moitié de l'univers\ndans Avengers ?",
+        "choix": [
+            "Il va prendre une bombe immense",
+            "Il va souffler très très fort",
+            "Il va claquer du doigt comme joséphine ange-gardien",
+            "Il va utiliser sa super force militaire pour anéantir des planètes"
+        ],
+        "reponse": 2
+    },
+    {
+        "thème": "Science-fiction",
+        "intitulé": "Qu'est-ce que Hellboy ?",
+        "choix": [
+            "Un X-men",
+            "Le fils de Satan",
+            "Un démon ordinaire"
+        ],
+        "reponse": 1
+    },
+    {
+        "thème": "Science-fiction",
+        "intitulé": "Quel est le nom du premier\nfilm de Sciences-fiction\nréalisé ?",
+        "choix": [
+            "Voyage au centre de la terre",
+            "20 000 lieues sous la mer",
+            "Le voyage dans la lune",
+            "Il était une fois la vie"
+        ],
+        "reponse": 2
+    },
+    {
+        "thème": "Science-fiction",
+        "intitulé": "Qui est Dark Vador ?",
+        "choix": [
+            "Luke Skywalker",
+            "Le fils de Luke Skywalker",
+            "Obi-Wan Kenobi",
+            "Anakin Skywalker"
+        ],
+        "reponse": 3
+    },
+    {
+        "thème": "Science-fiction",
+        "intitulé": "De quel alliage est fait le\ncorps de Wolverine ?",
+        "choix": [
+            "Un alliage d'or",
+            "Un alliage de Titane",
+            "Un alliage d'adamantium",
+            "D'acier"
+        ],
+        "reponse": 2
+    },
+    {
+        "thème": "Science-fiction",
+        "intitulé": "Où se rend le Docteur Strange\nafin de soigner ses mains ?",
+        "choix": [
+            "Taraahan",
+            "Tatooine",
+            "Kamaartage",
+            "Valoraant"
+        ],
+        "reponse": 2
+    },
+    {
+        "thème": "Science-fiction",
+        "intitulé": "Qui peut on apercevoir dans\nchaque film du MCU\n(Marvel Cinema Universe) ?",
+        "choix": [
+            "Iron-man",
+            "Stan Lee",
+            "Bruce Lee",
+            "Captain America"
+        ],
+        "reponse": 1
+    },
+    {
+        "thème": "Science-fiction",
+        "intitulé": "Quel est le pseudonyme de\nWill Smith\ndans Men In Black ?",
+        "choix": [
+            "L",
+            "K",
+            "Z",
+            "J"
+        ],
+        "reponse": 3
+    },
+    {
+        "thème": "Science-fiction",
+        "intitulé": "Quelle est la relation entre\nLuke Skywalker\net la princesse Leïa ?",
+        "choix": [
+            "Frère et soeur",
+            "Père et fille",
+            "Mère et fils",
+            "Mari et femmme"
+        ],
+        "reponse": 0
+    },
+    {
+        "thème": "Science-fiction",
+        "intitulé": "Qui est le (la) pire ennemi \nde Batman ?",
+        "choix": [
+            "Harley Quinn",
+            "Gueule d'argile",
+            "Bane",
+            "Le joker"
+        ],
+        "reponse": 3
+    },
+    {
+        "thème": "Science-fiction",
+        "intitulé": "Comment est baptisé le navire\ndu pirate Jack Sparrow ?",
+        "choix": [
+            "Le Hollandais Volant",
+            "Le Queen's Enemy",
+            "Le Black Pearl",
+            "L'évangélion"
+        ],
+        "reponse": 2
+    },
+    {
+        "thème": "Science-fiction",
+        "intitulé": "Contre qui se battent les\nspartiates dans le\nfilm 300 ?",
+        "choix": [
+            "Les Romains de Jules César",
+            "Les Perses de Xercès",
+            "Les Chinois de Sun Tzu",
+            "Les Gaulois de Vercingétorix"
+        ],
+        "reponse": 1
+    }
+]
